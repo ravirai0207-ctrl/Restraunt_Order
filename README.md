@@ -1,9 +1,11 @@
 
-````markdown
+````text
 # Restaurant Order Management System
 
 ## Overview
-The **Restaurant Order Management System** is a Python-based application designed to streamline the food ordering process. It provides an interactive interface for customers or staff to view the menu, select items, and generate a final bill automatically.
+The **Restaurant Order Management System** is a Python-based application designed to streamline the food ordering
+process. It provides an interactive interface for customers or staff to view the menu, select items, and generate
+a final bill automatically.
 
 This project aims to simplify billing calculations and order tracking for small to medium-sized eateries.
 
